@@ -1,0 +1,3 @@
+1.Observableを作る
+2.filterやmapなどのOperatorを使って値を加工する
+3.Observerを使ってObservableをsubscribeする
